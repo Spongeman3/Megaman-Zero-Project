@@ -1,0 +1,10 @@
+image_speed = 0.4;
+state = "move";
+walk_speed = 4;
+run_speed = 4;
+vsped = 0
+grav = 0.05
+dash_speed = 7;
+dash_attackspeed = 4
+attack_animation_speed = 4
+input = instance_create_layer(0,0,"Instances",obj_input)
